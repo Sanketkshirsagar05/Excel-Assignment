@@ -1,28 +1,37 @@
 # Excel Assignment
 
-This repository contains Excel assignments focusing on data analysis, visualization, and advanced Excel features.
+This repository showcases various Excel functions and techniques, with practical examples for each topic.
 
+## Contents
 
-## Assignments Overview
+### 1. **Arithmetic Functions**
+   - Basic arithmetic operations using Excel functions.
 
-- **Assignment 1**: Sales Analysis  
-  Clean and analyze sales data using formulas, conditional formatting, and summary tables.  
+### 2. **Logical Functions**
+   - Logical operations using functions like `IF`, `AND`, `OR`, `NOT`.
 
-- **Assignment 2**: Employee Attendance Dashboard  
-  Create an interactive dashboard using Pivot Tables, Charts, and Slicers.  
+### 3. **Lookup Functions**
+   - Functions such as `VLOOKUP`, `HLOOKUP`, `INDEX`, and `MATCH`.
 
-- **Assignment 3**: Financial Report  
-  Use `VLOOKUP`, `INDEX-MATCH`, and variance analysis to compare Actual vs. Budgeted financials.  
+### 4. **Date Functions**
+   - Working with dates using `TODAY()`, `NOW()`, `DATE()`, and more.
 
-- **Assignment 4**: Product Performance Analysis  
-  Build dynamic charts with dropdowns and sparklines to track trends.  
+### 5. **Sort and Filtering**
+   - Sorting and filtering data in Excel to organize information.
 
-- **Assignment 5**: Data Cleaning and Validation  
-  Clean datasets using tools like Text to Columns, Data Validation, and conditional formatting.  
+### 6. **Charts**
+   - Visual representation of data with various chart types (bar, line, pie, etc.).
 
-- **Assignment 6**: Advanced Functions  
-  Solve problems with `COUNTIF`, `SUMIF`, and array formulas for complex calculations.
+### 7. **Dashboard**
+   - Advanced techniques using Power Query, Power Pivot, Data Modeling, Pivot Tables, Charts, and Slicers for interactive dashboards.
 
+### 8. **Macro and VBA**
+   - Automating tasks with Macros and VBA scripting.
 
-## Contact
-For queries or feedback, reach out to [Sanket Kshirsagar](https://github.com/Sanketkshirsagar05)
+## Requirements:
+   - Microsoft Excel (2016 or later).
+   - Power Query, Power Pivot, and other necessary add-ins.
+   - Basic Excel knowledge.
+
+## How to Use:
+   - Explore the examples and follow the instructions provided for each function and feature.
