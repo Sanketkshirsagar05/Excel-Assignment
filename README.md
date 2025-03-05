@@ -2,6 +2,7 @@
 
 This repository showcases various Excel functions and techniques, with practical examples for each topic.
 
+
 ## Contents
 
 ### 1. **Arithmetic Functions**
